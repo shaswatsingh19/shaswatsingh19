@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**shaswatsingh19/shaswatsingh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there,See below what I'm working on 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Full stack and Data Science 
+- 🌱 I’m currently learning ... Data science 
+- 👯 I’m looking to collaborate on ... STILL THINKING
+- 🤔 I’m looking for help with ... Full stack with Mern Stack 
+- 💬 Ask me about ... Python and Video Editing
+- 📫 How to reach me: ...[Mail me](shaswatsingh.ose@gmail.com)
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... Lion sleeps 20 hrs a day 
+
 -->
