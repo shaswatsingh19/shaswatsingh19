@@ -3,6 +3,7 @@
   <img align="left" alt="Shaswat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" />
 
 
