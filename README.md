@@ -5,7 +5,7 @@
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" />
 
-<p>
+
 - 🔭 I’m currently working on ... Full stack and Data Science 
 - 🌱 I’m currently learning ... Data science 
 - 👯 I’m looking to collaborate on ... STILL THINKING
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ... Once a coder, Coder forever 
 
 -->
-</p>
+
 
 
 #
