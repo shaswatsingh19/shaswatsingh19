@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaswat Singh</h1>
+<h3 align="center">A passionate ML Enthusiast from India. <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jashandeep2020" alt="Jashandeep2020" /> </p>
+
 <a href="https://www.linkedin.com/in/shaswat-singh-035a84144/">
   <img align="left" alt="Shaswat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
