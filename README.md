@@ -1,13 +1,11 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/juanbelieni/">
-  <img align="left" alt="Juan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shaswat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" />
 
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=juanbelieni&show_icons=true" />
-
-Here are some ideas to get you started:
-
+<p>
 - 🔭 I’m currently working on ... Full stack and Data Science 
 - 🌱 I’m currently learning ... Data science 
 - 👯 I’m looking to collaborate on ... STILL THINKING
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Once a coder, Coder forever 
 
 -->
-
+</p>
 
 
 #
