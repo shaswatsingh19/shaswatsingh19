@@ -28,7 +28,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact&theme=vue" alt="shaswatsingh19"  /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
+<img align="center" src="https://github-readme-stats-sigma-six.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
 
 
 
