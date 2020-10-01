@@ -28,8 +28,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact" alt="shaswatsingh19" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" alt="shaswatsingh19" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" alt="shaswatsingh19" /></p>
 
 
 
@@ -39,10 +38,4 @@
 
  <!--START_SECTION:activity-->
 
- 
 
--->
-
-
-
-#
