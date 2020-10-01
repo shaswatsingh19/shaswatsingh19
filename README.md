@@ -28,7 +28,7 @@
  <p align="center"> 
 
  <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&theme=vue&show_icons=true" alt="shaswatsingh19" /> 
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&langs_count=3&layout=compact" alt="shaswatsingh19" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&langs_count=3" alt="shaswatsingh19" />
  
  </p>
  
