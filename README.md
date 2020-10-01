@@ -37,5 +37,11 @@
 
 
  <!--START_SECTION:activity-->
+1. 💪 Opened PR [#84](https://github.com/geekquad/AlgoBook/pull/84) in [geekquad/AlgoBook](https://github.com/geekquad/AlgoBook)
+2. 🎉 Merged PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
+3. 💪 Opened PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
+4. 💪 Opened PR [#33](https://github.com/sunnyday90210/my-first-pull-request-tutorial/pull/33) in [sunnyday90210/my-first-pull-request-tutorial](https://github.com/sunnyday90210/my-first-pull-request-tutorial)
+5. 🗣 Commented on [#253](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/issues/253) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
+<!--END_SECTION:activity-->
 
 
