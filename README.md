@@ -27,6 +27,7 @@
 
  <p align="center"> 
 [Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&theme=vue-dark&show_icons=true)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19" alt="shaswatsingh19" />
  
  </p>
