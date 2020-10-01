@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaswat Singh</h1>
 <h3 align="center">A passionate Data Science from India. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="ShaswatSingh19" /> </p>
-<p align = 'right'>
-<img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" alt="shaswatsingh19" /> 
- </p>
+
 <br />
 
 
@@ -29,7 +27,8 @@
 
  <p align="center"> 
  
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19" alt="shaswatsingh19" />
+<img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" alt="shaswatsingh19" /> 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19" alt="shaswatsingh19" />
  
  </p>
  
