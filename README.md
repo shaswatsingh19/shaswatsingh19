@@ -4,6 +4,7 @@
 
 <br />
 
+[![Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...**Full stack and Data Science** 
