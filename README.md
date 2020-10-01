@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaswat Singh</h1>
 <h3 align="center">A passionate Data Science from India. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="Jashandeep2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="ShaswatSingh19" /> </p>
 
 <a href="">
   <img align="left" alt="Shaswat's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
