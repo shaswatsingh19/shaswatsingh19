@@ -27,8 +27,7 @@
 
  <p align="center"> 
 
- <img src="https://github-readme-stats-sigma-six.vercel.app
-/api?username=shaswatsingh19&theme=algolia&show_icons=true" alt="shaswatsingh19" /> 
+ <img src="https://github-readme-stats-sigma-six.vercel.app/api?username=shaswatsingh19&theme=algolia&show_icons=true" alt="shaswatsingh19" /> 
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&langs_count=3&theme=algolia" alt="shaswatsingh19" />
  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=shaswatsingh19&repo=Face_Detection_Using_python_and_openCV&theme=algolia"(https://github.com/shaswatsingh19/Face_Detection_Using_python_and_openCV)/>
  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=shaswatsingh19&repo=House_price_prediction&theme=algolia"(https://github.com/shaswatsingh19/House_price_prediction)/>
