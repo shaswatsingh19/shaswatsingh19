@@ -31,7 +31,7 @@
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&langs_count=3" alt="shaswatsingh19" />
  
  </p>
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=shaswatsingh19&repo=House_price_prediction"(https://github.com/shaswatsingh19/House_price_prediction)
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=shaswatsingh19&repo=House_price_prediction&theme=tokyonight"(https://github.com/shaswatsingh19/House_price_prediction)
 
 -->
 
