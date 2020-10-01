@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaswat Singh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="shaswatsingh19" /> </p>
 
