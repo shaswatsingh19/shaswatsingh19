@@ -26,7 +26,7 @@
 </p>
 
  <p align="center"> 
-[![Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&theme=vue-dark&show_icons=true)]
+[Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&theme=vue-dark&show_icons=true)
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19" alt="shaswatsingh19" />
  
  </p>
