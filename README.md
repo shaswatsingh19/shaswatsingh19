@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact" alt="shaswatsingh19" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true" alt="shaswatsingh19" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact&theme=vue" alt="shaswatsingh19"  /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
 
 
 
