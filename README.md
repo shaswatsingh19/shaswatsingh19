@@ -4,7 +4,6 @@
 
 <br />
 
-[![Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...**Full stack and Data Science** 
@@ -28,7 +27,7 @@
 
  <p align="center"> 
  
-<img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&theme=buefy&show_icons=true" alt="shaswatsingh19" /> 
+[![Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=shaswatsingh19)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19" alt="shaswatsingh19" />
  
  </p>
