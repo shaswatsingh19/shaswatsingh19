@@ -44,3 +44,9 @@
 5. 💪 Opened PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
 <!--END_SECTION:activity-->
 
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
