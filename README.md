@@ -31,11 +31,9 @@
 <img align="left" src="https://github-readme-stats-sigma-six.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
 
 
+<br />
 
 
-
-
-<p>
  <!--START_SECTION:activity-->
 1. 🗣 Commented on [#233](https://github.com/LoginRadius/engineering-portal/issues/233) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 2. 💪 Opened PR [#84](https://github.com/geekquad/AlgoBook/pull/84) in [geekquad/AlgoBook](https://github.com/geekquad/AlgoBook)
@@ -44,4 +42,3 @@
 5. 💪 Opened PR [#33](https://github.com/sunnyday90210/my-first-pull-request-tutorial/pull/33) in [sunnyday90210/my-first-pull-request-tutorial](https://github.com/sunnyday90210/my-first-pull-request-tutorial)
 <!--END_SECTION:activity-->
 
-</p>
