@@ -37,10 +37,10 @@
 
 
  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/LoginRadius/engineering-portal/issues/233) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-2. 💪 Opened PR [#84](https://github.com/geekquad/AlgoBook/pull/84) in [geekquad/AlgoBook](https://github.com/geekquad/AlgoBook)
-3. 🎉 Merged PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
-4. 💪 Opened PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
-5. 💪 Opened PR [#33](https://github.com/sunnyday90210/my-first-pull-request-tutorial/pull/33) in [sunnyday90210/my-first-pull-request-tutorial](https://github.com/sunnyday90210/my-first-pull-request-tutorial)
+1. 🗣 Commented on [#61](https://github.com/geekquad/AlgoBook/issues/61) in [geekquad/AlgoBook](https://github.com/geekquad/AlgoBook)
+2. 🗣 Commented on [#233](https://github.com/LoginRadius/engineering-portal/issues/233) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+3. 💪 Opened PR [#84](https://github.com/geekquad/AlgoBook/pull/84) in [geekquad/AlgoBook](https://github.com/geekquad/AlgoBook)
+4. 🎉 Merged PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
+5. 💪 Opened PR [#1](https://github.com/shaswatsingh19/AlgoBook/pull/1) in [shaswatsingh19/AlgoBook](https://github.com/shaswatsingh19/AlgoBook)
 <!--END_SECTION:activity-->
 
