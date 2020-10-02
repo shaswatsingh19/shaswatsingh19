@@ -27,11 +27,13 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&langs_count=3" alt="shaswatsingh19"  /></p>
-<img align="left" src="https://github-readme-stats-sigma-six.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
+
+<p><img align="right" src="https://github-readme-stats-sigma-six.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&langs_count=3" alt="shaswatsingh19"  /></p>
 
 
-<br />
+
+
 
 
  <!--START_SECTION:activity-->
