@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaswat Singh</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaswat-singh-035a84144//)](https://www.linkedin.com/in/shaswat-singh-035a84144/) [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&https://medium.com/@AllMightyDaemon/)](https://medium.com/@AllMightyDaemon)
-[![Gmail Badge](https://img.shields.io/badge/-sameerkhanofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaswatsingh.ose@gmail.com)](mailto:shaswatsingh.ose@gmail.com)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="shaswatsingh19" /> </p>
 
