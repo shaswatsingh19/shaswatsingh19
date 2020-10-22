@@ -29,10 +29,6 @@
 </p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> </p>
-<p><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&langs_count=3" alt="shaswatsingh19" /></p>
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&langs_count=3" alt="shaswatsingh19" />
 
