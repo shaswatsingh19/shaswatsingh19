@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web development and Data science**
 
-- 📝 I regulary write articles on [https://medium.com/@AllMightyDaemon](https://medium.com/@AllMightyDaemon)
+- 📝 I sometime write articles on [https://medium.com/@AllMightyDaemon](https://medium.com/@AllMightyDaemon)
 
 - 💬 Ask me about **python and video editing**
 
