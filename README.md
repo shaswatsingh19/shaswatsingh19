@@ -30,7 +30,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&langs_count=3" alt="shaswatsingh19" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
  <!--START_SECTION:activity-->
