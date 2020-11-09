@@ -30,8 +30,12 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushu570&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+![visitors](https://profile-counter.glitch.me/rushu570/count.svg)
 
 
  <!--START_SECTION:activity-->
