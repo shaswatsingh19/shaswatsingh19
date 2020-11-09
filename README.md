@@ -30,11 +30,11 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rushu570&theme=vue&layout=compact" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&layout=compact" />
 
 
 
-![visitors](https://profile-counter.glitch.me/rushu570/count.svg)
+![visitors](https://profile-counter.glitch.me/shaswatsingh19/count.svg)
 
 
  <!--START_SECTION:activity-->
