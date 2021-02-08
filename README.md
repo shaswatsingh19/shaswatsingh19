@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Python Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="shaswatsingh19" /> </p>
 
 - 🌱 I’m currently learning **front end development**
 
@@ -32,9 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&layout=compact" />
 
-
-
-![visitors](https://profile-counter.glitch.me/shaswatsingh19/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="shaswatsingh19" /> </p>
 
 
  <!--START_SECTION:activity-->
