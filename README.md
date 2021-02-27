@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25/>    
 </p>
 
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=vue" alt="shaswatsingh19" /> 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&theme=vue&layout=compact" />
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatsingh19" alt="shaswatsingh19" /> </p>
 
 
