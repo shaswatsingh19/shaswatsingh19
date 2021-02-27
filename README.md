@@ -28,8 +28,7 @@
 
 
 ## My Github Status 🦸
-![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&bg_color=45,#ca9898,#8c9ba3,#6f8499,#fc00ff,#00dbde&title_color=fff&text_color=fff)
-
+![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
 ![](https://activity-graph.herokuapp.com/graph?username=shaswatsingh19&theme=github)
 
 
