@@ -22,7 +22,7 @@
 <h4>My Skills</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
