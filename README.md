@@ -28,7 +28,8 @@
 
 
 ## My Github Status 🦸
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=5&width=100&height=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=5&width=100&height=1150)
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
 ![](https://activity-graph.herokuapp.com/graph?username=shaswatsingh19&theme=github)
 
