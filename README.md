@@ -28,11 +28,11 @@
 
 
 ## My Github Status 🦸
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
 ![](https://activity-graph.herokuapp.com/graph?username=shaswatsingh19&theme=github)
 
-//&hide=javascript,html
+
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=shaswatsingh19'></p>
 
