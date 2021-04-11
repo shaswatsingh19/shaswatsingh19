@@ -1,6 +1,5 @@
 # Hey, I am Shaswat👋✌️
 
-
 - 🌱 I’m currently learning **front end development**
 
 - 👯 I’m looking to collaborate on **Web development and Data science**
