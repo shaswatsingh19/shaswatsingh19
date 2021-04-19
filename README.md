@@ -14,9 +14,9 @@
 
 ## Find me around the web 🌍
 - [LinkedIn](https://linkedin.com/in/shaswat-singh-035a84144/)
-- [Twitter](https://twitter.com/_shaswat_Singh)
+- [Twitter](https://twitter.com/_ShaswatSingh19)
 - [Codepen](https://codepen.io/shaswat-singh)
-- [Medium](https://medium.com/@AllMightyDaemon)
+- [Medium](https://medium.com/@shaswatsingh19)
 
 ## My skills 🚀
 
