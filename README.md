@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Web development and Data science**
 
-- 📝 I sometime write articles on [https://medium.com/@shaswatsingh19](https://medium.com/@shaswatsingh19)
+- 📝 I sometime write articles on [Medium](https://medium.com/@shaswatsingh19)
 
 - 💬 Ask me about **python and video editing**
 
