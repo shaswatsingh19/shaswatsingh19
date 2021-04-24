@@ -11,6 +11,7 @@
 - 📫 How to reach me **shaswatsingh.ose@gmail.com**
 
 
+
 ## Find me around the web 🌍
 - [LinkedIn](https://linkedin.com/in/shaswat-singh-035a84144/)
 - [Twitter](https://twitter.com/_ShaswatSingh19)
@@ -42,6 +43,5 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
