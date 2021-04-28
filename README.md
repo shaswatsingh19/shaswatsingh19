@@ -27,32 +27,14 @@ pppppp<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
 
 
 ## My Github Status 🦸
-<!--
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green)
--->
 
-<p align="center">
-    <img
-        height="150em"
-	 width="350em"
-        src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
-    />
-    
-   <img
-        height="150em"
-	width="350em"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green"
-    />
-    <img
-        height="180em"
-	width="400em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact"
-    />
-</p>
+
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=shaswatsingh19'></p>
