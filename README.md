@@ -37,14 +37,14 @@ pppppp<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/
 
 <p align="center">
     <img
-        height="180em"
-	 width="400em"
+        height="150em"
+	 width="350em"
         src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
     />
     
    <img
-        height="180em"
-	width="400em"
+        height="150em"
+	width="350em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green"
     />
     <img
