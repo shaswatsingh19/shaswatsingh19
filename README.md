@@ -31,11 +31,9 @@
 <div align="left">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact)
-</div>
-<div align="right">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact)</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
-</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green)
 
 
