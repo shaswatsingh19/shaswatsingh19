@@ -33,8 +33,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green)
 
-![](https://activity-graph.herokuapp.com/graph?username=shaswatsingh19&theme=github)
-
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=shaswatsingh19'></p>
