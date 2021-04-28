@@ -39,12 +39,12 @@
     <img
         height="180em"
 	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff
+        src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
     />
     <img
         height="180em"
 	width="400em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITESH-KUMAR-JAIN&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact"
     />
 </p>
 
