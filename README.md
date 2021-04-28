@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+pppppp<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 🌱 I’m currently learning **front end development**
 
@@ -41,15 +41,16 @@
 	 width="400em"
         src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
     />
+    
+   <img
+        height="180em"
+	width="400em"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green"
+    />
     <img
         height="180em"
 	width="400em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact"
-    />
-	<img
-        height="180em"
-	width="400em"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green"
     />
 </p>
 
