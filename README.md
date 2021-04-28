@@ -37,7 +37,7 @@
 
 <p align="center">
     <img
-        height="180em"
+        height="200em"
 	 width="400em"
         src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
     />
