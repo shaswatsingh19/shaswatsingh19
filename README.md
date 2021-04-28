@@ -37,7 +37,7 @@
 
 <p align="center">
     <img
-        height="200em"
+        height="180em"
 	 width="400em"
         src="https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff"
     />
@@ -45,6 +45,11 @@
         height="180em"
 	width="400em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact"
+    />
+	<img
+        height="180em"
+	width="400em"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green"
     />
 </p>
 
