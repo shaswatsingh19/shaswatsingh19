@@ -31,6 +31,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsingh19&hide=jupyter%20notebook&langs_count=6&theme=dark&layout=compact)</span>
+
 ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green)
 
