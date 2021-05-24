@@ -16,7 +16,6 @@
 - [Codepen](https://codepen.io/shaswat-singh)
 - [Medium](https://medium.com/@shaswatsingh19)
 
-
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
