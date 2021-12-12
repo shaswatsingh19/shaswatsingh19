@@ -6,12 +6,12 @@
 
 - 📝 I sometime write articles on [Medium](https://medium.com/@shaswatsingh19)
 
-- 💬 Ask me about **python and video editing**
+- 💬 Love to talk with you on **Javascript and Java**
 
 - 📫 How to reach me **shaswatsingh.ose@gmail.com**
 
 ## Find me around the web 🌍
-- [LinkedIn](https://linkedin.com/in/shaswat-singh-035a84144/)
+- [LinkedIn](https://www.linkedin.com/in/shaswatsingh19/)
 - [Twitter](https://twitter.com/_ShaswatSingh19)
 - [Codepen](https://codepen.io/shaswat-singh)
 - [Medium](https://medium.com/@shaswatsingh19)
