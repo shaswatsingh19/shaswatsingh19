@@ -40,8 +40,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-
-
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=shaswatsingh19'></p>
 
 <div align="center">
