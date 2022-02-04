@@ -12,7 +12,7 @@
 
 ## Find me around the web 🌍
 
-- [Portfolio](https://www.shaswatsingh19.vercel.app)
+- [Portfolio](https://shaswatsingh.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/shaswatsingh19/)
 - [Twitter](https://twitter.com/_ShaswatSingh19)
 - [Codepen](https://codepen.io/shaswat-singh)
