@@ -1,3 +1,7 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/_ShaswatSingh19?label=Follow)](https://twitter.com/intent/follow?screen_name=_ShaswatSingh19)
+[![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaswatsingh19/)](https://www.linkedin.com/in/shaswatsingh19/)
+![GitHub followers](https://img.shields.io/github/followers/shaswatsingh19?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 🌱 I’m currently learning **front end development**
