@@ -36,9 +36,9 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shaswatsingh19&show_icons=true&theme=dark&title_color=fff&text_color=fff) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswatsingh19&theme=blue-green)
-
+<!-- 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/shaswatsingh19/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shaswatsingh19/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
 ### 😂 You reached till down here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
