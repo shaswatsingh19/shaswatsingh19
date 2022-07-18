@@ -1,5 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ShaswatSingh19?label=Follow)](https://twitter.com/intent/follow?screen_name=_ShaswatSingh19)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Shaswat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaswatsingh19/)](https://www.linkedin.com/in/shaswatsingh19/)
+
 ![GitHub followers](https://img.shields.io/github/followers/shaswatsingh19?label=Follow&style=social)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
@@ -20,7 +21,6 @@
 - [LinkedIn](https://www.linkedin.com/in/shaswatsingh19/)
 - [Twitter](https://twitter.com/_ShaswatSingh19)
 - [Codepen](https://codepen.io/shaswat-singh)
-- [Medium](https://medium.com/@shaswatsingh19)
 
 ## My skills 🚀
 
