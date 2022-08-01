@@ -1,5 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ShaswatSingh19?label=Follow)](https://twitter.com/intent/follow?screen_name=_ShaswatSingh19)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Shaswat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaswatsingh19/)](https://www.linkedin.com/in/shaswatsingh19/)
+[![Linkedin: Shaswat](https://img.shields.io/badge/-Shaswat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaswatsingh19/)](https://www.linkedin.com/in/shaswatsingh19/)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/shaswatsingh19?label=Follow&style=social)
