@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **front end development**
 
-- 👯 I’m looking to collaborate on **Web development and Data science**
+- 👯 I’m looking to collaborate on **Web development**
 
 - 📝 I sometime write articles on [Medium](https://medium.com/@shaswatsingh19)
 
